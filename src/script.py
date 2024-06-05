@@ -6,5 +6,6 @@ from matplotlib import pyplot as plt
 # adding yet another comment here
 df = pd.read_csv('../data/dataset.csv')
 
+# this code generates a plot
 df.plot()
 plt.savefig('../results/plot.png', dpi=300)
