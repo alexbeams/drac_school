@@ -1,5 +1,4 @@
 # Summary
-Editing the file here.
 
 This is the summary for our proposal.
 
